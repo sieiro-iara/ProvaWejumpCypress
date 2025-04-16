@@ -9,3 +9,6 @@
 npm install
 # ou
 yarn install
+
+
+npx cypress open
